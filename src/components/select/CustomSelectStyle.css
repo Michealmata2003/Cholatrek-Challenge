@@ -1,0 +1,9 @@
+select{
+border: none;
+background: #E8F0FE;
+padding-right: 10px;
+}
+option{
+    width: 100%;
+    font-size: 16px;
+}

@@ -1,0 +1,33 @@
+.wholebody{
+  background-image: url('../../assets/minebg.webp');
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.hero {
+  height: 92vh;
+  /* display: flex; */
+  width: 100%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 40px;
+  font-weight: 900;
+  color: #E9EAEB;
+}
+.hero p {
+  font-size: 20px;
+  align-items: center;
+  text-align: center;
+  padding-top: 10px;
+  color: #E9EAEB;
+}
+button:hover{
+  color: #005BA0;
+}
